@@ -1,4 +1,3 @@
-```lua
 local cloneref = (cloneref or clonereference or function(instance: any)
     return instance
 end)
@@ -945,4 +944,3 @@ end
 
 SaveManager:BuildFolderTree()
 return SaveManager
-```
